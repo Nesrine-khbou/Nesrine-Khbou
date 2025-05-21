@@ -2,9 +2,9 @@
 <h3 align="center">An engineering student from Tunisia</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e7/26/c7/e726c74ac081eed50feee1433d12c998.gif" >
 
-- 🔭 I’m currently working on **Smart crutch application**
+- 🔭 Excited to explore **summer internship opportunities**
 
-- 🌱 I’m currently learning **MERN stack**
+- 🌱 I’m a **full-stack developer**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Nesrine-khbou](https://github.com/Nesrine-khbou)
 
