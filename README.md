@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **nesrine.khbou@isimsf.u-sfax.tn**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me:</h3> https://www.linkedin.com/in/nesrine-khbou-224893271/
 <p align="left">
 </p>
 
