@@ -2,7 +2,7 @@
 <h3 align="center">An engineering student from Tunisia</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e7/26/c7/e726c74ac081eed50feee1433d12c998.gif" >
 
-- 🔭 Excited to explore **summer internship opportunities**
+- 🔭 Excited to explore **final-year project opportunities**
 
 - 🌱 I’m a **full-stack developer**
 
