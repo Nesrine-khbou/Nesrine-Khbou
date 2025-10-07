@@ -4,7 +4,7 @@
 
 - 🔭 Excited to explore **final-year project opportunities**
 
-- 🌱 I’m a **full-stack developer**
+- 🌱 I’m a **Full-Stack Developer**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Nesrine-khbou](https://github.com/Nesrine-khbou)
 
